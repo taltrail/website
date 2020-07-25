@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "349efb8eef7c7bfad5c0d80335137049",
+    "revision": "e6f45ea77c9893ee813c0d0677fde4c8",
     "url": "/website/index.html"
   },
   {
-    "revision": "f227cb20c31b0709ddb2",
-    "url": "/website/static/css/2.3d20797f.chunk.css"
+    "revision": "49724521ff19c204211b",
+    "url": "/website/static/css/2.8cd28503.chunk.css"
   },
   {
-    "revision": "c85e50c796629c518a71",
-    "url": "/website/static/css/main.dd8a6d06.chunk.css"
+    "revision": "7339b849906cfb0a9b0d",
+    "url": "/website/static/css/main.62c9bc33.chunk.css"
   },
   {
-    "revision": "f227cb20c31b0709ddb2",
-    "url": "/website/static/js/2.5180df36.chunk.js"
+    "revision": "49724521ff19c204211b",
+    "url": "/website/static/js/2.9751249a.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/website/static/js/2.5180df36.chunk.js.LICENSE.txt"
+    "url": "/website/static/js/2.9751249a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c85e50c796629c518a71",
-    "url": "/website/static/js/main.b4132bea.chunk.js"
+    "revision": "7339b849906cfb0a9b0d",
+    "url": "/website/static/js/main.0296b863.chunk.js"
   },
   {
     "revision": "6cf7fc8c51c9078ec993",
@@ -68,12 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/website/static/media/logo.34715858.jpg"
   },
   {
-    "revision": "6a35931133f1703c447826ba8a88c940",
-    "url": "/website/static/media/mcdonalds_logo.6a359311.png"
-  },
-  {
-    "revision": "a12bd7437f32c9f3c8951ccc39a0fb89",
-    "url": "/website/static/media/microsoft_logo.a12bd743.jpg"
+    "revision": "ee4c8d9f634fb7fcbdad96285903cc5a",
+    "url": "/website/static/media/microsoft_logo.ee4c8d9f.jpg"
   },
   {
     "revision": "a01de9e55f86e05077d52f82b28d3943",
@@ -92,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/website/static/media/revicons.2feb69cc.eot"
   },
   {
-    "revision": "cd82779b3e397f6dbcc7e2bb81784a2e",
-    "url": "/website/static/media/walmart_logo.cd82779b.jfif"
+    "revision": "e3d4fea9d6cc8343309eaec1e94f4012",
+    "url": "/website/static/media/walmart_logo.e3d4fea9.jpeg"
   },
   {
     "revision": "9369ca151502af116458373d2e0ab6ba",
