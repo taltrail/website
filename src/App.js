@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./assets/img/logos/logo.jpg";
+import logo from "./assets/img/logos/taltrail.jpg";
 import Iframe from "react-iframe";
 import Button from "react-bootstrap/Button";
 import Navbar from "react-bootstrap/Navbar";
@@ -159,7 +159,8 @@ function App() {
           <Card>
             <Card.Img
               variant="top"
-              src={require("./assets/img/logos/walmart_logo.jpeg")}
+              src={require("./assets/img/logos/walmart.jpeg")}
+              fluid
             />
             {/* <Card.Body>
               <Card.Title>Card title</Card.Title>
@@ -172,31 +173,31 @@ function App() {
           <Card>
             <Card.Img
               variant="top"
-              src={require("./assets/img/logos/amazon_logo.jpg")}
+              src={require("./assets/img/logos/amazon.jpg")}
             />
           </Card>
           <Card>
             <Card.Img
               variant="top"
-              src={require("./assets/img/logos/facebook_logo.png")}
+              src={require("./assets/img/logos/facebook.png")}
             />
           </Card>
           <Card>
             <Card.Img
               variant="top"
-              src={require("./assets/img/logos/mcdonalds_logo.png")}
+              src={require("./assets/img/logos/mcdonalds.png")}
             />
           </Card>
           <Card>
             <Card.Img
               variant="top"
-              src={require("./assets/img/logos/microsoft_logo.jpg")}
+              src={require("./assets/img/logos/microsoft.jpg")}
             />
           </Card>
           <Card>
             <Card.Img
               variant="top"
-              src={require("./assets/img/portfolio/1.png")}
+              src={require("./assets/img/logos/apple.png")}
             />
           </Card>
         </CardGroup>

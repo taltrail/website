@@ -972,13 +972,13 @@ h3 {
 }
 
 /* line 71, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
-.footer .socail_links {
+.footer .social_links {
   text-align: right;
 }
 
 @media (max-width: 767px) {
   /* line 71, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
-  .footer .socail_links {
+  .footer .social_links {
     text-align: left;
     margin-top: 30px;
   }
@@ -986,19 +986,19 @@ h3 {
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 71, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
-  .footer .socail_links {
+  .footer .social_links {
     text-align: center;
     margin-top: 30px;
   }
 }
 
 /* line 85, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
-.footer .socail_links ul li {
+.footer .social_links ul li {
   display: inline-block;
 }
 
 /* line 88, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
-.footer .socail_links ul li a {
+.footer .social_links ul li a {
   color: #fff;
   width: 40px;
   height: 40px;
@@ -1017,7 +1017,7 @@ h3 {
 }
 
 /* line 102, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
-.footer .socail_links ul li a:hover {
+.footer .social_links ul li a:hover {
   color: #fff !important;
   background: #615CFD;
   border: 1px solid #615CFD;
