@@ -4,6 +4,7 @@ import Iframe from "react-iframe";
 import Button from "react-bootstrap/Button";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
+import NavDropdown from "react-bootstrap/NavDropdown"
 import Container from "react-bootstrap/Container";
 import Form from "react-bootstrap/Form";
 import FormControl from "react-bootstrap/FormControl";
@@ -74,15 +75,18 @@ function App() {
           </Form>
         </Navbar.Collapse>
         <Navbar.Collapse className="justify-content-end">
-          <Nav.Link href="/signup">
-            Sign-up / Login
-          </Nav.Link>
+          <NavDropdown title="User name" id="basic-nav-dropdown">
+            <NavDropdown.Item href="#action/3.1">Profile</NavDropdown.Item>
+            <NavDropdown.Item href="#action/3.2">
+              Settings
+            </NavDropdown.Item>
+            <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+            <NavDropdown.Divider />
+            <NavDropdown.Item href="/">
+              Logout
+            </NavDropdown.Item>
+          </NavDropdown>
         </Navbar.Collapse>
-        {/* <Navbar.Collapse className="justify-content-end">
-          <Nav.Link href="/home">
-            Go to Home
-          </Nav.Link>
-        </Navbar.Collapse> */}
       </Navbar>
       {/* <hr></hr> */}
       <div className="toolbar">
