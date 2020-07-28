@@ -5,6 +5,8 @@ import "./index.css";
 import App from "./App";
 import Login from "./login";
 import Home from "./home";
+import Profile from "./profile";
+import Upload from "./upload";
 import * as serviceWorker from "./serviceWorker";
 
 const routing = (
@@ -13,6 +15,8 @@ const routing = (
         <Route exact path="/" component={App} />
         <Route path="/signup" component={Login} />
         <Route path="/home" component={Home} />
+        <Route path="/profile" component={Profile} />
+        <Route path="/upload" component={Upload} />
       </div>
     </Router>
   )

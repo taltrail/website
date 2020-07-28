@@ -4,7 +4,7 @@ import Iframe from "react-iframe";
 import Button from "react-bootstrap/Button";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import NavDropdown from "react-bootstrap/NavDropdown"
+import NavDropdown from "react-bootstrap/NavDropdown";
 import Container from "react-bootstrap/Container";
 import Form from "react-bootstrap/Form";
 import FormControl from "react-bootstrap/FormControl";
@@ -54,7 +54,7 @@ import "../src/css/bootstrap.min.css";
 // import "bootstrap/dist/css/bootstrap.min.css";
 import "../src/css/style.css";
 
-function App() {
+function Home() {
   return (
     <div className="App">
       <Navbar>
@@ -76,7 +76,7 @@ function App() {
         </Navbar.Collapse>
         <Navbar.Collapse className="justify-content-end">
           <NavDropdown title="User name" id="basic-nav-dropdown">
-            <NavDropdown.Item href="#action/3.1">Profile</NavDropdown.Item>
+            <NavDropdown.Item href="/profile">Profile</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.2">
               Settings
             </NavDropdown.Item>
@@ -664,4 +664,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

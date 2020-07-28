@@ -15,6 +15,9 @@ import Nav from "react-bootstrap/Nav";
 import Form from "react-bootstrap/Form";
 import "../src/css/login.css";
 
+
+// https://firebase.google.com/docs/auth/web/email-link-auth
+
 const Login = () => {
   return (
     <div className="App">
@@ -30,7 +33,7 @@ const Login = () => {
         </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
-          <Nav.Link href="/">
+          <Nav.Link href="/home">
             Go to Home
           </Nav.Link>
         </Navbar.Collapse>
