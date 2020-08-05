@@ -77,14 +77,10 @@ function Home() {
         <Navbar.Collapse className="justify-content-end">
           <NavDropdown title="User name" id="basic-nav-dropdown">
             <NavDropdown.Item href="/profile">Profile</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.2">
-              Settings
-            </NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+            <NavDropdown.Item href="/settings">Settings</NavDropdown.Item>
+            <NavDropdown.Item href="/employer">Employer</NavDropdown.Item>
             <NavDropdown.Divider />
-            <NavDropdown.Item href="/">
-              Logout
-            </NavDropdown.Item>
+            <NavDropdown.Item href="/">Logout</NavDropdown.Item>
           </NavDropdown>
         </Navbar.Collapse>
       </Navbar>

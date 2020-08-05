@@ -7,6 +7,7 @@ import Login from "./login";
 import Home from "./home";
 import Profile from "./profile";
 import Upload from "./upload";
+import Employer from "./employer";
 import * as serviceWorker from "./serviceWorker";
 
 const routing = (
@@ -17,6 +18,7 @@ const routing = (
         <Route path="/home" component={Home} />
         <Route path="/profile" component={Profile} />
         <Route path="/upload" component={Upload} />
+        <Router path="/employer" component={Employer} />
       </div>
     </Router>
   )

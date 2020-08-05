@@ -48,7 +48,7 @@ import "../src/css/bootstrap.min.css";
 // import "bootstrap/dist/css/bootstrap.min.css";
 import "../src/css/style.css";
 
-function Profile() {
+function Employer() {
   return (
     <div className="App">
       <Navbar>
@@ -78,7 +78,7 @@ function Profile() {
           </NavDropdown>
         </Navbar.Collapse>
       </Navbar>
-      {/* <hr></hr> */}
+      {/* <hr></hr>
       <div className="toolbar">
         <Nav
           activeKey="/home"
@@ -152,7 +152,7 @@ function Profile() {
           </Nav.Item>
           <Button href="/upload" variant="success"><FontAwesomeIcon icon={faDownload} /></Button>{' '}
         </Nav>
-      </div>
+      </div> */}
       <div className="profile_intro_video">
         <div class="row">
           <div class="col-8">
@@ -448,4 +448,4 @@ function Profile() {
   );
 }
 
-export default Profile;
+export default Employer;

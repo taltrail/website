@@ -40,6 +40,7 @@ import {
   faHourglassEnd,
   faClock,
   faColumns,
+  faSignInAlt,
 } from "@fortawesome/free-solid-svg-icons";
 
 import Carousel from "react-multi-carousel";
@@ -56,7 +57,7 @@ import "../src/css/style.css";
 function App() {
   return (
     <div className="App">
-      <Navbar>
+      <Navbar bg="dark">
         <Navbar.Brand href="#home">
           <img
             alt=""
