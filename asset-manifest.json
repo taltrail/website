@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.62c9bc33.chunk.css",
-    "main.js": "/website/static/js/main.0296b863.chunk.js",
-    "main.js.map": "/website/static/js/main.0296b863.chunk.js.map",
+    "main.css": "/website/static/css/main.36d1d0a0.chunk.css",
+    "main.js": "/website/static/js/main.66d9c6e9.chunk.js",
+    "main.js.map": "/website/static/js/main.66d9c6e9.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.279f26b3.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.279f26b3.js.map",
     "static/css/2.8cd28503.chunk.css": "/website/static/css/2.8cd28503.chunk.css",
-    "static/js/2.9751249a.chunk.js": "/website/static/js/2.9751249a.chunk.js",
-    "static/js/2.9751249a.chunk.js.map": "/website/static/js/2.9751249a.chunk.js.map",
+    "static/js/2.85fb3c76.chunk.js": "/website/static/js/2.85fb3c76.chunk.js",
+    "static/js/2.85fb3c76.chunk.js.map": "/website/static/js/2.85fb3c76.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.b465c66a4fe26aacbc26b482aeb1db64.js": "/website/precache-manifest.b465c66a4fe26aacbc26b482aeb1db64.js",
+    "precache-manifest.485cfe0e9d86b2acc2c69f869f16983d.js": "/website/precache-manifest.485cfe0e9d86b2acc2c69f869f16983d.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/2.8cd28503.chunk.css.map": "/website/static/css/2.8cd28503.chunk.css.map",
-    "static/css/main.62c9bc33.chunk.css.map": "/website/static/css/main.62c9bc33.chunk.css.map",
-    "static/js/2.9751249a.chunk.js.LICENSE.txt": "/website/static/js/2.9751249a.chunk.js.LICENSE.txt",
+    "static/css/main.36d1d0a0.chunk.css.map": "/website/static/css/main.36d1d0a0.chunk.css.map",
+    "static/js/2.85fb3c76.chunk.js.LICENSE.txt": "/website/static/js/2.85fb3c76.chunk.js.LICENSE.txt",
     "static/media/1.png": "/website/static/media/1.b378aaaa.png",
-    "static/media/style.css": "/website/static/media/work.9369ca15.png",
-    "static/media/amazon_logo.jpg": "/website/static/media/amazon_logo.e34f255b.jpg",
-    "static/media/facebook_logo.png": "/website/static/media/facebook_logo.f10a3037.png",
-    "static/media/logo.jpg": "/website/static/media/logo.34715858.jpg",
-    "static/media/microsoft_logo.jpg": "/website/static/media/microsoft_logo.ee4c8d9f.jpg",
+    "static/media/David.jpg": "/website/static/media/David.9766ea2d.jpg",
+    "static/media/amazon.jpg": "/website/static/media/amazon.e34f255b.jpg",
+    "static/media/facebook.png": "/website/static/media/facebook.f10a3037.png",
+    "static/media/microsoft.jpg": "/website/static/media/microsoft.ee4c8d9f.jpg",
     "static/media/styles.css": "/website/static/media/revicons.2feb69cc.eot",
-    "static/media/walmart_logo.jpeg": "/website/static/media/walmart_logo.e3d4fea9.jpeg"
+    "static/media/taltrail.jpg": "/website/static/media/taltrail.34715858.jpg",
+    "static/media/walmart.jpeg": "/website/static/media/walmart.e3d4fea9.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.279f26b3.js",
     "static/css/2.8cd28503.chunk.css",
-    "static/js/2.9751249a.chunk.js",
-    "static/css/main.62c9bc33.chunk.css",
-    "static/js/main.0296b863.chunk.js"
+    "static/js/2.85fb3c76.chunk.js",
+    "static/css/main.36d1d0a0.chunk.css",
+    "static/js/main.66d9c6e9.chunk.js"
   ]
 }
